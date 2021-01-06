@@ -1,0 +1,20 @@
+{
+  "name": "myhive",
+  "version": "1.0.0",
+  "description": "My first project! For coliving communities to better organize and communicate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaArrufat/myhive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaArrufat/myhive/issues"
+  },
+  "homepage": "https://github.com/MariaArrufat/myhive#readme"
+}
